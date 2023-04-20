@@ -1,0 +1,64 @@
+body {
+    background-color: black;
+}
+
+.principal_cont {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px;
+}
+
+.show_horizontal {
+    width: 100%;
+    background-color: rgba(0, 255, 255, 0.041);
+}
+
+.show {
+    background-color: rgba(127, 255, 212, 0.068);
+}
+
+.showImage {
+    height: 300px;
+}
+
+.rate_show {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    white-space: nowrap;
+    width: 100%;
+    height: 100px;
+    background-color: rgba(117, 153, 70, 0.932);
+}
+
+.rate_show div {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(72, 255, 0);
+}
+
+h4 {
+    color: white;
+}
+
+.espacio_show {
+    width: 20px;
+    height: 100px;
+    background-color: aqua;
+}
+
+.rate_star {
+    width: 25px;
+}
+
+.rate_star_null {
+    width: 25px;
+}
+
+
+.save_show {
+    width: 23px;
+}
